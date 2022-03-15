@@ -1,0 +1,19 @@
+initial app:
+
+components : 
+	- cards (green, red, blue, yellow)
+	- game press button 
+state :
+	- isPress
+
+isPress ? true ?
+	- game press button update by 1
+
+randomly press one card and store in a state
+I have to memorize the pressed card & repress the cards 
+
+state :
+	- pressedBySystem
+	- pressedByUser
+
+if pressedBySystem !== pressedByUser ? fail : continue
