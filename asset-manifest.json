@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simon-says/static/css/main.933ba079.css",
+    "main.js": "/simon-says/static/js/main.b80a51ac.js",
+    "index.html": "/simon-says/index.html",
+    "main.933ba079.css.map": "/simon-says/static/css/main.933ba079.css.map",
+    "main.b80a51ac.js.map": "/simon-says/static/js/main.b80a51ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.933ba079.css",
+    "static/js/main.b80a51ac.js"
+  ]
+}
